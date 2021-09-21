@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://yurytatsenka.github.io/csb-xgokc/static/css/main.27071d5f.chunk.css",
+    "main.js": "https://yurytatsenka.github.io/csb-xgokc/static/js/main.cff2be9f.chunk.js",
+    "main.js.map": "https://yurytatsenka.github.io/csb-xgokc/static/js/main.cff2be9f.chunk.js.map",
+    "runtime~main.js": "https://yurytatsenka.github.io/csb-xgokc/static/js/runtime~main.83693ee5.js",
+    "runtime~main.js.map": "https://yurytatsenka.github.io/csb-xgokc/static/js/runtime~main.83693ee5.js.map",
+    "static/css/2.dfd58508.chunk.css": "https://yurytatsenka.github.io/csb-xgokc/static/css/2.dfd58508.chunk.css",
+    "static/js/2.a338bb99.chunk.js": "https://yurytatsenka.github.io/csb-xgokc/static/js/2.a338bb99.chunk.js",
+    "static/js/2.a338bb99.chunk.js.map": "https://yurytatsenka.github.io/csb-xgokc/static/js/2.a338bb99.chunk.js.map",
+    "index.html": "https://yurytatsenka.github.io/csb-xgokc/index.html",
+    "precache-manifest.5e326e1150c0cb7ea161aae0de88227c.js": "https://yurytatsenka.github.io/csb-xgokc/precache-manifest.5e326e1150c0cb7ea161aae0de88227c.js",
+    "service-worker.js": "https://yurytatsenka.github.io/csb-xgokc/service-worker.js",
+    "static/css/2.dfd58508.chunk.css.map": "https://yurytatsenka.github.io/csb-xgokc/static/css/2.dfd58508.chunk.css.map",
+    "static/css/main.27071d5f.chunk.css.map": "https://yurytatsenka.github.io/csb-xgokc/static/css/main.27071d5f.chunk.css.map",
+    "static/media/burger.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/burger.3f2a4dae.png",
+    "static/media/floor.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/floor.f5b6ed11.png",
+    "static/media/ground.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/ground.65fd5b77.png",
+    "static/media/houses.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/houses.fc41d8c4.png",
+    "static/media/kitchen.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/kitchen.746323a4.png",
+    "static/media/picture.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/picture.3f7c63c6.png",
+    "static/media/plate.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/plate.8af72113.png",
+    "static/media/room.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/room.cda649da.png",
+    "static/media/signboard.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/signboard.08e91c43.png",
+    "static/media/table.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/table.b17e6031.png",
+    "static/media/winner.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/winner.aa4e1286.png",
+    "static/media/wooden-floor.png": "https://yurytatsenka.github.io/csb-xgokc/static/media/wooden-floor.6a9cdb6b.png"
+  }
+}
